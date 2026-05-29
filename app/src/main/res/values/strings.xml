@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RegisterLogin</string>
+    <string name="title">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="clear">Clear</string>
+    <string name="close">Close</string>
+    <string name="regtitle">Register</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="regusername">Username</string>
+    <string name="regpassword">Password</string>
+    <string name="register">Register</string>
+    <string name="regclear">Clear</string>
+    <string name="regclose">Close</string>
+    <string name="backlogin">Back</string>
+    <string name="logout">LOGOUT</string>
+</resources>
